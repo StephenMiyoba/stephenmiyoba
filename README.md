@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Steve.
 
 <!--
 **StephenMiyoba/stephenmiyoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I'm based in Lusaka, Zambia and I'm currently redoing my college Visual Basic project in Java. It's a basic CRUD desktop application for checking in and out of a hotel.
+I have have uploaded my progress, take a look.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
